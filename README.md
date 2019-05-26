@@ -1,6 +1,8 @@
 # UE4 Niagara Practice
-
-![cover](Cover.gif)
+<p align="center">
+  <img width="288" height="172" src="./Cover/Simple.gif" />
+  <img width="288" height="172" src="./Cover/Lorenz.gif" />
+</p>
 
 # Introduction
 Practice!
