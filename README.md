@@ -2,6 +2,7 @@
 <p align="center">
   <img width="288" height="172" src="./Cover/Simple.gif" />
   <img width="288" height="172" src="./Cover/Lorenz.gif" />
+  <img width="288" height="172" src="./Cover/Cube.gif" />
 </p>
 
 # Introduction
