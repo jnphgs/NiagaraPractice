@@ -6,7 +6,7 @@
 </p>
 
 # Introduction
-Practice!
+This project is just for practice and experiment with Niagara.
 
 # Environment
 - Unreal Engine 4.22.1
