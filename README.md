@@ -3,6 +3,7 @@
   <img width="288" height="172" src="./Cover/Simple.gif" />
   <img width="288" height="172" src="./Cover/Lorenz.gif" />
   <img width="288" height="172" src="./Cover/Cube.gif" />
+  <img width="288" height="172" src="./Cover/randomline.gif" />
 </p>
 
 # Introduction
